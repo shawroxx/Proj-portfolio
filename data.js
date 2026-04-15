@@ -12,9 +12,9 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Arjav Jain",
+  firstName: "Arjav",   // Used in the hero greeting
+  lastName: "Jain",      // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
@@ -125,26 +125,26 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   //                      email, codepen, devto, medium, youtube
   // Use the "icon" field to choose the SVG icon displayed.
   contact: {
-    email: "chinmayingle26@gmail.com",
+    email: "arjavjain1705@gmail.com",
     socialLinks: [
       {
         platform: "GitHub",
-        url: "https://github.com/chinmayingle26",
+        url: "https://github.com/shawroxx",
         icon: "github",
       },
       {
         platform: "LinkedIn",
-        url: "https://linkedin.com/in/chinmayingle",
+        url: "https://linkedin.com/in/",
         icon: "linkedin",
       },
       {
         platform: "Twitter",
-        url: "https://twitter.com/chinmayingle",
+        url: "https://twitter.com/",
         icon: "twitter",
       },
       {
         platform: "Instagram",
-        url: "https://instagram.com/chinmayingle",
+        url: "https://instagram.com/",
         icon: "instagram",
       },
     ],
@@ -156,7 +156,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Accent color is used for buttons, highlights, and links.
   // You can use any valid CSS color value.
   theme: {
-    accentColor: "#c8ff00",       // Lime green accent (inspired by Lando Norris!)
-    accentColorDark: "#a8d900",   // Darker shade for hover states
+    accentColor: "#FF0000",       // Lime green accent (inspired by Lando Norris!)
+    accentColorDark: "#0000FF",   // Darker shade for hover states
   },
 };
